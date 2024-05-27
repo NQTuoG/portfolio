@@ -244,3 +244,8 @@ header .collapse .active::before {
     color: orange !important;
   }
 } */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
